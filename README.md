@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="230" height="124" alt="XGPU" src="https://github.com/user-attachments/assets/f1df807d-806b-4ec0-80d2-9b5bb6a95786" />
+  <img width="220" height="118" alt="text2" src="https://github.com/user-attachments/assets/5080981d-45ef-4d1d-bbd6-59ad52c51b40" />
   <p>A modern, cross-platform, low-level graphics API with No compromises.</p>
 </div>
 
