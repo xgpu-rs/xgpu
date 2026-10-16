@@ -1,0 +1,12 @@
+[package]
+name = "xgpu"
+version = "0.0.1"
+edition = "2024"
+description = "🦀 A modern, cross-platform, low-level graphics API with No compromises."
+authors = ["sumeeth sumeethveeramallu2001@gmail.com"]
+license = "MIT"
+repository = "https://github.com/xgpu-rs/xgpu.git"
+homepage = "https://github.com/xgpu-rs/xgpu.git"
+
+
+[dependencies]
